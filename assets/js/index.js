@@ -24,3 +24,20 @@ console.log(c / d);
 const e = 3;
 const f = 4;
 console.log(e + f);
+
+const isSave = true;
+console.log(isSave);
+
+console.log(typeof "100");
+console.log(typeof 11);
+console.log(typeof "java script");
+console.log(typeof tru);
+
+let n = 6 + 1;
+console.log(n);
+let r = 5 - 9;
+console.log(r);
+let g = 8 * 7;
+console.log(g);
+let s = 12 / 6;
+console.log(s);
