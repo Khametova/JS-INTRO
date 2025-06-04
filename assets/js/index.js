@@ -41,3 +41,20 @@ let g = 8 * 7;
 console.log(g);
 let s = 12 / 6;
 console.log(s);
+
+const greeting = "You answer ";
+const number = prompt("How much will it be 7**2");
+console.log(greeting + number);
+
+const greetings = "Hello";
+const newName = prompt("Your name");
+console.log(newName);
+const surName = prompt("Your sername");
+console.log(surName);
+alert(greetings + " " + newName + " " + surName);
+document.write("<p>" + greetings + " " + newName + " " + surName + "</p>");
+
+const firstNumber = Number(prompt("1 number", "0"));
+const secondNumber = Number(prompt("2 number", "0"));
+const sum = (firstNumber + secondNumber) / 2;
+console.log(sum);
