@@ -58,3 +58,6 @@ const firstNumber = Number(prompt("1 number", "0"));
 const secondNumber = Number(prompt("2 number", "0"));
 const sum = (firstNumber + secondNumber) / 2;
 console.log(sum);
+
+const minute = +prompt("Enter the number of minutes");
+console.log(minute * 60, "sec");
