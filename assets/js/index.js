@@ -31,7 +31,7 @@ console.log(isSave);
 console.log(typeof "100");
 console.log(typeof 11);
 console.log(typeof "java script");
-console.log(typeof tru);
+console.log(typeof true);
 
 let n = 6 + 1;
 console.log(n);
